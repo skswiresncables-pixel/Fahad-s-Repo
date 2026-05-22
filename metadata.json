@@ -1,0 +1,6 @@
+{
+  "name": "Secure Messenger",
+  "description": "An end-to-end encrypted real-time messaging app with broadcast lists, custom contact notifications, calling features, unified social inbox (X, FB, IG, LI), and engagement analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
